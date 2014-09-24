@@ -1,0 +1,10 @@
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+
+[user]
+  email = "dennis.cahillane@soundcloud.com"
+  name = "Dennis Cahillane"
+
