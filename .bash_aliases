@@ -1,6 +1,9 @@
 alias v2='cd ~/code/v2'
 alias v2t='cd ~/code/v2/app/test/acceptance'
 alias givm='gvim'
+alias pbpaste='xclip -selection clipboard -o'
+alias pbcopy='xclip -selection clipboard'
+
 PS1='\w\$ '
 
 #  Customize BASH PS1 prompt to show current GIT repository and branch.
